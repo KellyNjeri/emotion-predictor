@@ -4,3 +4,5 @@ scikit-learn
 streamlit
 joblib
 nltk
+matplotlib==3.5.3
+seaborn==0.12.2
